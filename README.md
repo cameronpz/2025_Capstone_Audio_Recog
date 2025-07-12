@@ -1,1 +1,1 @@
-# 2025_Capstone_Audio_Recog
+This repository displays the files utilized in my Capstone (Senior Design) Project for my electrical engineering degree at the University of California, Irvine. This project, Speech Recognition Applications for VR, was nominated for the 2025 Dean Choice Award. Spanning every engineering department at the university, there was only 21 nominations.
